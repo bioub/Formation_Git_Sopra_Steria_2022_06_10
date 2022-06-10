@@ -10,3 +10,8 @@ Formation Git pour Sopra Steria du 10/06/2022
 * git status
 * git diff
 * git config
+
+## Les branches
+
+* git branch
+* git switch
